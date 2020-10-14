@@ -1,0 +1,11 @@
+{
+    "name": "brohim/bringapi",
+    "description": "Test bring api pacakage",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Brohim\\Bringapi\\": "src/"
+        }
+    },
+    "require": {}
+}
